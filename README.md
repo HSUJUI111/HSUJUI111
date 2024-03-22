@@ -5,7 +5,7 @@
 
 I'm a Computer Science and Technology student, interested in  Learning.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdvancedX&show_icons=true&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSUJUI111&show_icons=true&theme=blue-green)
 
 ## Skills and Experience
 * 💻 Java | C++ | Go | Python
