@@ -8,13 +8,12 @@ I'm a Computer Science and Technology student, interested in  Learning.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HSUJUI111&show_icons=true&theme=blue-green)
 
 ## Skills and Experience
-* 💻 Java | C++ | Go | Python
+* 💻 Java | C++ | Python
 * 📊 Machine Learning
 * 🌐 Web Development
-* 🚀 Microservices with Go
 
 ## Projects and Contributions
-* [Machine Learning](https://github.com/HSUJUI111/MachineLearning)
+
 
 ## Contact Me
 * 📧 Email: rickyhsujui1023@gmail.com
